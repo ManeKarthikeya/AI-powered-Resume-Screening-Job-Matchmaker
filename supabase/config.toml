@@ -1,0 +1,10 @@
+project_id = "ifavpuosbnldxyglpmkp"
+
+[functions.process-resume]
+verify_jwt = false
+
+[functions.match-resumes]
+verify_jwt = false
+
+[functions.generate-job-embedding]
+verify_jwt = false
