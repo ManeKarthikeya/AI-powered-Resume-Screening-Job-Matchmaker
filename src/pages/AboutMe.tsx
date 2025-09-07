@@ -27,7 +27,7 @@ function AboutMe() {
       {/* Message and Name */}
       <div className="absolute top-2 sm:top-4 right-2 sm:right-4 z-10 text-sm sm:text-base md:text-xl font-serif text-right max-w-[80%] sm:max-w-none">
         <p className="text-xs sm:text-sm md:text-base">
-          "From dream to destination, AI makes travel simple — designing personalized journeys that fit your style, budget, and time."
+          "Transform your hiring process with revolutionary AI technology. 100% accurate resume analysis, intelligent matching, and comprehensive candidate evaluation in seconds."
         </p>
         <a
           href="mailto:mane.karthikeya.1811@gmail.com"
